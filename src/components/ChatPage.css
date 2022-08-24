@@ -1,0 +1,7 @@
+.container {
+    height: 700px;
+    width: 800px;
+    background: beige;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px black;
+}

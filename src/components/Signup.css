@@ -1,0 +1,11 @@
+.signupContainer{
+    background: beige;
+    height: 300px;
+    width: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 15px;
+    box-shadow: 4px 4px 10px black;
+}
